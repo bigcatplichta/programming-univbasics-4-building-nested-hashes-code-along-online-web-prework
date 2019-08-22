@@ -21,6 +21,7 @@ def second_challenge
         { name: "Mercutio",
           age: "18",
           attitude: "hot-headed"}]
+    }
     :capulet => {
       :patriarch => {
         name: "Lord Capulet",
@@ -42,5 +43,5 @@ def second_challenge
         { name: "Nurse",
           age: "44",
           attitude: "worried"}]
-      
+    }
 end
