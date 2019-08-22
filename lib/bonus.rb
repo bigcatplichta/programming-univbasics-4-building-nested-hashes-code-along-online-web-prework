@@ -20,8 +20,8 @@ def bonus
    }
   }
 
- epic_tragedy[:Montague][:hero][:status] = "dead as fuck"
- epic_tragedy[:Capulet][:heroine][:status] = "dead as fuck"
+ epic_tragedy[:montague][:hero][:status] = "dead as fuck"
+ epic_tragedy[:capulet][:heroine][:status] = "dead as fuck"
 
   
 
